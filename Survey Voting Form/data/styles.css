@@ -1,0 +1,488 @@
+﻿.ax_default {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.shape {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.heading_1 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._контрагент {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  color:#333333;
+  text-align:left;
+  line-height:20px;
+}
+._цветная_кнопка_нормальная_большая {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#FFFFFF;
+}
+.paragraph {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.flow_shape {
+}
+.connector {
+}
+.image {
+  color:#000000;
+}
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+.box_1 {
+}
+.box_2 {
+}
+._плашка_выделеная {
+}
+._плашка_при_наведении {
+}
+.box_3 {
+}
+._чб_кнопка_при_наведении {
+}
+._чб_кнопка_при_нажатии {
+}
+._чб_кнопка_активная {
+}
+._чб_кнопка_недоступная {
+  color:#BFCBD9;
+}
+.ellipse {
+}
+.line {
+}
+.arrow {
+}
+.link_disable {
+  color:#8FC2E2;
+}
+.shape1 {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.horizontal_line {
+}
+.icon {
+}
+.text_field {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  color:#676A6C;
+  text-align:left;
+}
+.heading_31 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#676A6C;
+  text-align:left;
+}
+.heading_41 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#676A6C;
+  text-align:left;
+}
+._цветная_кнопка_нормальная_стандартная {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+}
+._цветная_кнопка_при_наведении {
+}
+._цветная_кнопка_при_нажатии {
+}
+._цветная_кнопка_недоступная {
+  color:#BFCBD9;
+}
+._чб_кнопка_нормальная {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#333333;
+}
+._цветная_кнопка_активная {
+}
+.image1 {
+}
+._поле_ввода {
+}
+._поле_ввода_при_наведении {
+}
+._поле_ввода_активное {
+}
+._поле_ввода_успешно {
+}
+._поле_ввода_недоступное {
+}
+._меню_активное {
+  font-family:'Ubuntu', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  text-align:left;
+}
+._меню_кружок {
+}
+._меню_кружок_при_наведении {
+  color:#0092C5;
+}
+._меню_кружок_активный {
+  color:#FFFFFF;
+}
+._иконка_при_наведении {
+}
+._иконка_активная {
+}
+.shape2 {
+}
+._линия_шага {
+}
+._линия_шага_пройденная {
+}
+._пункт_меню {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+._пункт_меню_при_наведении {
+  color:#000000;
+}
+._пункт_меню_активный {
+  color:#000000;
+}
+._пункт_меню_недоступный {
+  color:#BCBCBC;
+}
+._иконка_меню {
+}
+._иконка_меню_при_наведении {
+}
+._иконка_меню_активная {
+}
+._иконка_меню_неактивная {
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+._поле_ввода1 {
+}
+.text_field2 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+  text-align:left;
+}
+.icon1 {
+}
+.heading_11 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_22 {
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:20px;
+  text-align:left;
+}
+.heading_32 {
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_42 {
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+.heading_51 {
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_61 {
+  font-family:'Roboto Bold', 'Roboto Regular', 'Roboto', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+.label1 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+  line-height:24px;
+}
+.paragraph1 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+  line-height:22px;
+}
+.icon2 {
+}
+.ellipse1 {
+}
+.button {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+}
+.primary_button1 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+}
+._цветная_кнопка_нормальная {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+}
+._иконка_цв_кнопка_нормальная {
+}
+._иконка_цв_кнопка_при_наведении {
+}
+._иконка_цв_кнопка_при_нажатии {
+}
+._иконка_цв_кнопка_активная {
+}
+._иконка_цв_кнопка_недоступная {
+}
+._зеленая_кнопка_большая {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.shape3 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  text-align:center;
+  line-height:normal;
+}
+._4_0_поле {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#B2B2B2;
+  text-align:left;
+}
+._поле_select {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#404040;
+  text-align:left;
+}
+._4_0______disable {
+  font-family:'Arial Обычный', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#8E8E8E;
+  text-align:left;
+}
+._операция {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#999999;
+  text-align:left;
+  line-height:18px;
+}
+.image2 {
+  color:#000000;
+}
+._плашка_организации {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  line-height:18px;
+}
+.basic_blue_color {
+}
+.basic_blue_color__hover_ {
+}
+.basic_blue_color__pressed_ {
+}
+.basic_blue_color__disable_ {
+}
+.line_input {
+}
+.line_input__hover_ {
+}
+.line_input__pressed_ {
+}
+.line_input__disable_ {
+}
+.text1 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+}
+.text_disable {
+  color:#D6D6D6;
+}
+.text_area_input {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  color:rgba(51, 51, 51, 0.996078431372549);
+  text-align:left;
+}
+.text_field_hint {
+  color:#ADADAD;
+}
+.link_button1 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#3EA4E0;
+  text-align:left;
+}
+.link_button__hover_ {
+}
+.link_button__pressed_ {
+}
+.link_button__disable_ {
+  color:#D6D6D6;
+}
+._меню_при_наведении1 {
+  color:#F48479;
+}
+textarea, select, input, button { outline: none; }
